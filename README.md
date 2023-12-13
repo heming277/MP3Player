@@ -23,3 +23,5 @@ C-Language
 
 Authors
 Heming Liu  - Initial work
+
+Note the Music in the goodmusic folder is only for personal listening, you cannot use it for commerical purposes
